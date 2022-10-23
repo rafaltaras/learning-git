@@ -7,4 +7,4 @@ for key, value in lista_zakupow.items():
     print("Ide do",key.upper(),"i kupuje tam",value)
     ilosc = len(value)
     v = v + ilosc
-print("W sumie kupiłem",v,"produktow")
+print("Kupiłem",v,"produktow")
