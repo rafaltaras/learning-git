@@ -8,4 +8,4 @@ for key, value in lista_zakupow.items():
     ilosc = len(value)
     v = v + ilosc
 print("Zostały zakupione",v,"towarów")
-print("new branch")
+
