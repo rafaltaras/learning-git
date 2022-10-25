@@ -1,6 +1,6 @@
 lista_zakupow = {
     "piekarnia": ["Chleb","Paczek","Bulki","Rogal"],
-    "warzywniak": ["Marchew","Seler","Rukola"]}
+    "warzywniak": ["Marchew","Seler","Rukola","Piertuszka"]}
 
 v = 0
 for key, value in lista_zakupow.items():
